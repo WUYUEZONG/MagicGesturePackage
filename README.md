@@ -1,5 +1,7 @@
 # MagicGesturePackage
  
+**您也可以通过我的[个人网站](https://wuyuezong.github.io/apps/magic-gesture/)获得更好的阅读体验**
+ 
 ## 窗口手势
 
 如果您使用妙控鼠标，您可以通过一根手指，在窗口的标题栏操作以达到对应的效果

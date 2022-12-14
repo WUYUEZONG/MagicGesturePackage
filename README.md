@@ -1,3 +1,16 @@
+# 详细说明：https://wuyuezong.github.io/apps/magic-gesture/
+
+# 更新说明：https://wuyuezong.github.io/apps/magic-gesture/#%E6%9B%B4%E6%96%B0
+
+
+本页面将不再更新！！！
+
+
+  
+    
+      
+
+
 # MagicGesturePackage
  
 **您也可以通过我的[个人网站](https://wuyuezong.github.io/apps/magic-gesture/)获得更好的阅读体验**
